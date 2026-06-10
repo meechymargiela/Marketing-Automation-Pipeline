@@ -19,7 +19,6 @@ A fully production-grade, behaviour-triggered B2B lead nurturing pipeline built 
 |---|---|
 | **HubSpot Enterprise** | Workflow automation, email sending, lead scoring, CRM |
 | **Make.com** | Form submission listener, Slack notifications, Google Sheets logging |
-| **OpenAI API** | AI-generated email content (via Make.com scenario) |
 | **Google Sheets** | Contact data logging and pipeline tracking |
 | **Slack** | Real-time internal sales notifications |
 
