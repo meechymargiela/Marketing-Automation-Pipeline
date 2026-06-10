@@ -1,3 +1,7 @@
+![HubSpot](https://img.shields.io/badge/HubSpot-Enterprise-orange)
+![Make.com](https://img.shields.io/badge/Make.com-Automation-blue)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+
 ## Marketing Automation Pipeline — HubSpot + Make.com
 
 > **Portfolio Project ** Marketing Automation | Marketing Operations  
