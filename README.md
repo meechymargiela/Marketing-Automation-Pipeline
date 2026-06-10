@@ -280,7 +280,7 @@ Digital Marketing & AI Marketing Automation Specialist
 <img width="1910" height="826" alt="image" src="https://github.com/user-attachments/assets/ee4be41c-3b04-4bfb-af9b-ce7c34f4f6f4" />
 <img width="1909" height="873" alt="image" src="https://github.com/user-attachments/assets/202ba48a-cf78-496c-b937-b55998872553" />
 
-## Enrollment History Succesfull Run
+## Enrollment History Successfull Run
 <img width="1909" height="928" alt="image" src="https://github.com/user-attachments/assets/869dc2de-3050-472c-a6fa-8f7d364dd833" />
 <img width="1908" height="947" alt="image" src="https://github.com/user-attachments/assets/64c676c1-212b-4624-9687-a1671f3c618b" />
 
